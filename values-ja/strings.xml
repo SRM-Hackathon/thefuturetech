@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APPIRATER_CANCEL_BUTTON">いいえ、結構です</string>
+    <string name="APPIRATER_MESSAGE">%s を気に入って頂けましたか？宜しければ、アプリの評価をお願い致します。1分とかかりません。ご協力に感謝致します！</string>
+    <string name="APPIRATER_MESSAGE_TITLE">%sを評価</string>
+    <string name="APPIRATER_RATE_BUTTON">%sを評価する</string>
+    <string name="APPIRATER_RATE_LATER">後で</string>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="about">このアプリについて</string>
+    <string name="about_content">TapTapSeeについて</string>
+    <string name="accept">同意する</string>
+    <string name="app_name">TapTapSee</string>
+    <string name="back">戻る</string>
+    <string name="camera_alert">このデバイスにはカメラは1台だけです</string>
+    <string name="cancel">キャンセル</string>
+    <string name="close">閉じる</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="contact_email">contact@taptapseeapp.com</string>
+    <string name="contact_subject">TapTapSee - Contact Us</string>
+    <string name="contact_text_locale">"
+Locale:"</string>
+    <string name="contact_text_message">"Your Message:
+
+
+
+
+Version:"</string>
+    <string name="contact_text_network">"
+Network:"</string>
+    <string name="contact_text_system">"
+System:"</string>
+    <string name="contact_text_type">text/html</string>
+    <string name="contact_us">お問い合わせ</string>
+    <string name="coupon_code">クーポンコードを入力して下さい</string>
+    <string name="coupon_error">クーポン利用エラー</string>
+    <string name="coupon_not_found">クーポンコードが見つかりません</string>
+    <string name="decline">同意しない</string>
+    <string name="disable_flash">text/html</string>
+    <string name="disable_sound">Disable auto focus sound switch</string>
+    <string name="enable_auto_focus_sound">オートフォーカス時の効果音を有効にする</string>
+    <string name="enable_camera_flash">フラッシュを有効にする</string>
+    <string name="enable_flash">フラッシュ切り替えスイッチ</string>
+    <string name="enable_save_picture">Save Picture to gallery</string>
+    <string name="enable_sound">オートフォーカス効果音切り替えスイッチ</string>
+    <string name="expires">使用期限</string>
+    <string name="gallery_picker_dialog_title">アップロードするファイルの種類を選択します</string>
+    <string name="how_to_use_content">写真を撮るには画面の右側をタップし、ビデオを撮るには左側をタップします</string>
+    <string name="image_is">写真 は です %d</string>
+    <string name="inapp">inapp</string>
+    <string name="library_taken">カメラロールの写真を開きます</string>
+    <string name="loading">読み込み中...</string>
+    <string name="maxed_images_error">同時に処理できる画像は /U0025i 枚までです。新しい写真を撮影する前に、現在の写真の処理が終わるのをお待ちください。</string>
+    <string name="need_talkback_content">撮影した写真の説明を音声で聞くには、デバイスの設定でTalkBackを有効にして下さい。</string>
+    <string name="no_connection">接続がありません</string>
+    <string name="no_pictures_taken">まだ何も撮影されていません</string>
+    <string name="notice">注意</string>
+    <string name="notice_dialog_content">暴力的な画像やわいせつな画像など、公序良俗に反する画像は撮影しないで下さい。これに反した場合、アプリの使用を停止することがあります。詳しくはプライバシーポリシーを参照して下さい。</string>
+    <string name="ok">Ok</string>
+    <string name="picture">写真</string>
+    <string name="picture_credits">残り撮影枚数</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="progress">処理中 %d</string>
+    <string name="progress_video">视频 正在进行中</string>
+    <string name="purchase">購入</string>
+    <string name="redeem">クーポン</string>
+    <string name="redeem_coupon">クーポンを使用する</string>
+    <string name="remaining">残り</string>
+    <string name="repeat_content">最後の写真を再度読み上げます</string>
+    <string name="search_menu_title">検索</string>
+    <string name="send_email">メール送信...</string>
+    <string name="share_recent">最後に撮影した写真を共有します</string>
+    <string name="share_text">"TapTapSeeによると、これは '"</string>
+    <string name="share_text_download">"' だそうです。 ダウンロードはこちら
+"</string>
+    <string name="share_text_url">https://market.android.com/details?id=</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_cam">カメラ切り替え</string>
+    <string name="takepicture">ダブルタップして、写真を撮影します</string>
+    <string name="takevideo">ビデオボタンを押して、あなたの目の前のものをビデオに撮るためにダブルタップします。</string>
+    <string name="talkback_off">TalkBackがオフです</string>
+    <string name="terms_of_use">利用規約</string>
+    <string name="textOff">OFF</string>
+    <string name="textOn">ON</string>
+    <string name="timeout_waiting_for_response">Timeout waiting for response</string>
+    <string name="to_continue">引き続きTapTapSeeを使用するには、クレジットを購入する必要があります。クレジットはパッケージまたは月会費の形で購入することが出来ます。</string>
+    <string name="too_blurry">Too blurry</string>
+    <string name="too_bright">Too bright</string>
+    <string name="too_closeprogre">Too close</string>
+    <string name="too_dark">Too dark</string>
+    <string name="trouble_send_image">エラー: 画像の送信に失敗しました</string>
+    <string name="txt_library">カメラロール</string>
+    <string name="txt_repeat">再読み上げ</string>
+    <string name="txt_share">共有</string>
+    <string name="version">バージョン:</string>
+    <string name="video_file_problem">ビデオが壊れているか、ビデオの長さが不十分です。 長い動画を作ってみてください。</string>
+    <string name="video_is">動画は</string>
+    <string name="video_long">動画が長すぎます</string>
+    <string name="video_long_description">%d 秒以内の動画を選択してください。</string>
+    <string name="wallet_buy_button_place_holder">Googleで購入</string>
+    <string name="warning">警告</string>
+    <string name="warning_camera_unlock">あなたのカメラは別のアプリケーションでビジー状態です</string>
+    <string name="first_launch_description">写真を撮るには画面の左側、動画を撮るには画面の右側をタップします。</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chose_type_of_item">
+        <item>छवि</item>
+        <item>वीडियो</item>
+    </string-array>
+</resources>

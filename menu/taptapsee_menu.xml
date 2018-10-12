@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/repeat_button" android:title="@string/txt_repeat" app:showAsAction="always" />
+    <item android:id="@id/import_button" android:title="@string/txt_library" app:showAsAction="always" />
+    <item android:id="@id/share_button" android:title="@string/txt_share" app:showAsAction="always" />
+    <item android:icon="@mipmap/ic_launcher" android:id="@id/action_about" android:title="about" app:showAsAction="always" />
+</menu>
