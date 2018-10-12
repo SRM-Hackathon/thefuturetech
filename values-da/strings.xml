@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APPIRATER_CANCEL_BUTTON">Nej tak</string>
+    <string name="APPIRATER_MESSAGE">Hvis du nyder at bruge% s, ville du noget imod at tage et øjeblik til at bedømme det? Det vandt /U0027t tage mere end et minut. Tak for din støtte!</string>
+    <string name="APPIRATER_MESSAGE_TITLE">Rate %s</string>
+    <string name="APPIRATER_RATE_BUTTON">Rate %s</string>
+    <string name="APPIRATER_RATE_LATER">Påmind mig senere</string>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_up_description">Naviger op</string>
+    <string name="abc_action_menu_overflow_description">Flere muligheder</string>
+    <string name="abc_action_mode_done">Luk</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgslen</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="about">Om denne ansøgning</string>
+    <string name="about_content">om TapTapSee</string>
+    <string name="accept">Accepter</string>
+    <string name="app_name">TapTapSee</string>
+    <string name="back">tilbage</string>
+    <string name="camera_alert">Enhed kun har én kamera!</string>
+    <string name="cancel">Annuller</string>
+    <string name="close">Luk</string>
+    <string name="common_google_play_services_enable_button">Aktivér</string>
+    <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+    <string name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="contact_email">contact@taptapseeapp.com</string>
+    <string name="contact_subject">TapTapSee - Kontakt os</string>
+    <string name="contact_text_locale">Landestandard:</string>
+    <string name="contact_text_message">"Din besked:
+
+
+
+
+Version:"</string>
+    <string name="contact_text_network">"
+netværk:"</string>
+    <string name="contact_text_system">"
+System:"</string>
+    <string name="contact_text_type">text/html</string>
+    <string name="contact_us">Kontakt os</string>
+    <string name="coupon_code">Indtast din kuponkode</string>
+    <string name="coupon_error">Indløs kupon Fejl</string>
+    <string name="coupon_not_found">Kupon ikke fundet</string>
+    <string name="decline">tilbagegang</string>
+    <string name="disable_flash">text/html</string>
+    <string name="disable_sound">Disable auto focus sound switch</string>
+    <string name="enable_auto_focus_sound">Aktiver autofokus lyd</string>
+    <string name="enable_camera_flash">Aktivér kameraets blitz</string>
+    <string name="enable_flash">Aktivér kameraets blitz switch,</string>
+    <string name="enable_save_picture">Save Picture to gallery</string>
+    <string name="enable_sound">Aktiver autofokus lyd switch,</string>
+    <string name="expires">udløber den</string>
+    <string name="gallery_picker_dialog_title">Vælg filtype, der skal uploades</string>
+    <string name="how_to_use_content">Tryk på højre side af skærmen for at tage et billede eller venstre side for at tage en video</string>
+    <string name="image_is">Billede er %d</string>
+    <string name="inapp">inapp</string>
+    <string name="library_taken">Bibliotek adgang til bibliotekets muligheder.</string>
+    <string name="loading">Loading...</string>
+    <string name="maxed_images_error">Undskyld, men jeg kan kun håndtere% Jeg billeder ad gangen. Vent til nogle færdig, før du tager et billede</string>
+    <string name="need_talkback_content">For at høre beskrivelser af billeder taget, skal du aktivere TalkBack i dine enhedsindstillinger</string>
+    <string name="no_connection">ingen forbindelse</string>
+    <string name="no_pictures_taken">Ingen billeder taget. Tag et billede først.</string>
+    <string name="notice">Notice</string>
+    <string name="notice_dialog_content">Din brug vil blive suspenderet, hvis du tager nogen voldelige, nøgen, delvist nøgen, diskriminerende, ulovlige, krænkende, hadefulde eller pornografiske billeder. Se vores fortrolighedspolitik for flere detaljer.</string>
+    <string name="ok">Ok</string>
+    <string name="picture">billede</string>
+    <string name="picture_credits">Picture Credits</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="progress">%d igangværende</string>
+    <string name="progress_video">Video i gang</string>
+    <string name="purchase">køb</string>
+    <string name="redeem">Indløs</string>
+    <string name="redeem_coupon">Indløs kupon</string>
+    <string name="remaining">resterende</string>
+    <string name="repeat_content">Gentag Sig det sidste billede igen.</string>
+    <string name="search_menu_title">Søg</string>
+    <string name="send_email">Send e-mail ...</string>
+    <string name="share_recent">Del den seneste billede</string>
+    <string name="share_text">Jeg opdagede dette var en /U0027</string>
+    <string name="share_text_download">"/U0027 med TapTapSee. Hent på 
+"</string>
+    <string name="share_text_url">https://market.android.com/details?id=</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_cam">Skift kamera</string>
+    <string name="takepicture">Tag billede Dobbelt tap at tage et billede, når foran dig.</string>
+    <string name="takevideo">Tag en video-knap, dobbeltklik for at tage en video af, hvad der er foran dig.</string>
+    <string name="talkback_off">TalkBack er Off</string>
+    <string name="terms_of_use">Betingelser for brug</string>
+    <string name="textOff">OFF</string>
+    <string name="textOn">ON</string>
+    <string name="timeout_waiting_for_response">Timeout waiting for response</string>
+    <string name="to_continue">At fortsætte med at bruge TapTapSee skal du købe kreditter. Credits kan købes som en pakke eller i form af et abonnement.</string>
+    <string name="too_blurry">Too blurry</string>
+    <string name="too_bright">Too bright</string>
+    <string name="too_closeprogre">Too close</string>
+    <string name="too_dark">Too dark</string>
+    <string name="trouble_send_image">mislykkedes: problemer med at sende billede</string>
+    <string name="txt_library">bibliotek</string>
+    <string name="txt_repeat">Gentag</string>
+    <string name="txt_share">Del</string>
+    <string name="version">Version:</string>
+    <string name="video_file_problem">Videoen er beskadiget eller utilstrækkelig videolængde. Prøv at lave længere video.</string>
+    <string name="video_is">Video er %1s</string>
+    <string name="video_long">Videoen er for lang</string>
+    <string name="video_long_description">Vælg venligst en video, der ikke er længere end %d sekunder.</string>
+    <string name="wallet_buy_button_place_holder">Køb med Google</string>
+    <string name="warning">Advarsel</string>
+    <string name="warning_camera_unlock">Dit kamera er optaget af et andet program</string>
+    <string name="first_launch_description">Tryk på venstre side af skærmen for at tage et billede eller på højre side for at optage video.</string>
+</resources>
