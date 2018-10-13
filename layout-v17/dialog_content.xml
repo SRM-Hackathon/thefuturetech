@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:background="@drawable/bg_rounded_transparent" android:paddingTop="@dimen/medium_vertical_padding" android:paddingBottom="@dimen/medium_vertical_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/small_horizontal_padding" android:paddingEnd="@dimen/small_horizontal_padding"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textColor="@android:color/black" android:gravity="center" android:id="@id/dialogMessage" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:textAppearanceMedium" />
-</RelativeLayout>
